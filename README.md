@@ -53,3 +53,4 @@ Always-on Claude agent stack with MCP-connected tools (GitHub, Supabase, Vercel,
 **Web:** [operatorhq.ai](https://operatorhq.ai) · [classgrid.co](https://classgrid.co)
 
 > Most of my repos are private (production code with API keys and proprietary logic). The fastest way to evaluate my work is to load the live URLs above.
+
