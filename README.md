@@ -1,56 +1,105 @@
 # Frank Tanner
 
-### Forward-Deployed AI Engineer · Multi-Product Builder · Operator
+### AI Transformation & Enablement · Hands-On AI Builder · Operator
 
-I design, build, and operate production AI systems for real customer environments.
+I help organizations find high-value workflow problems, design practical AI solutions, prototype and deploy them, and drive adoption around measurable business outcomes.
 
-In the last 18 months, I have shipped **4 production AI products** on the Anthropic API serving **17+ paying customers** across boutique fitness, adult family home operations, and B2B consulting. Daily Anthropic API user since 2023.
+I bring **15+ years of operator and P&L leadership** together with hands-on AI consulting and product delivery. I have led **17+ AI and automation engagements**, shipped production AI systems, and worked across discovery, workflow analysis, use-case prioritization, rapid prototyping, implementation, governance, training, adoption, and optimization.
 
-Backed by **15+ years of P&L operator experience** across multi-unit fitness franchise and food service ($80K+ monthly revenue). I do not approach software as theory. I build for the operators I used to be.
+My strongest lane is the bridge between the business and the build: understanding how work actually happens, deciding where AI is useful, getting a solution into the real workflow, and measuring whether it created value.
 
 ---
 
-## What I'm Building
+## How I Work
+
+### Friction First, AI Second
+Understand the workflow, bottleneck, and economics before choosing the technology.
+
+### KPI Before Code
+Define the baseline, target, and business outcome before implementation starts.
+
+### Control Matches Consequence
+Match permissions, approvals, evaluation, and human review to the risk of the action.
+
+### Enable, Then Scale
+**Observe → Map → Prioritize → Prototype → Measure → Train → Scale**
+
+---
+
+## Selected AI Transformation & Product Work
 
 ### [OperatorHQ](https://operatorhq.ai) · AI Operations Diagnostic Platform
-$2K Friction Report. 30-min Retell AI voice interview feeds a 5-agent Anthropic pipeline producing a 14-page custom diagnostic. Live in production with 3+ paid reports delivered.
+**Problem:** Operators struggle to identify where AI will create the most practical value across fragmented workflows.
 
-**Stack:** Next.js 15 · TypeScript · Tailwind v4 · Supabase · Stripe · Anthropic API · Retell AI
+**Approach:** A 30-minute Retell AI voice interview feeds a five-agent Anthropic workflow that analyzes operational friction and produces a structured diagnostic and implementation roadmap.
 
-### [ClassGrid](https://classgrid.co) · Retention Intelligence SaaS for Boutique Fitness
-Live Mindbody API integration with tier-aware risk scoring. Coach Impact Intelligence module connects member retention outcomes to individual coaches. 4+ paying studios in production.
+**Outcome:** A repeatable discovery-to-value process that turns ambiguous operating problems into prioritized AI opportunities and actionable recommendations.
+
+**Stack:** Next.js · TypeScript · Supabase · Stripe · Anthropic API · Retell AI
+
+### AI Decisioning & Collections
+**Problem:** A receivables operation was recovering 1.2% on a $38M portfolio with fragmented outreach and inconsistent next-action logic.
+
+**Approach:** Designed an AI decisioning and workflow transformation spanning voice AI, SMS, email, payments, analytics, governance, and human approvals.
+
+**Outcome:** Recovery increased to **4.7%**, representing an estimated **$1.3M in added annual recoveries**, and the engagement converted into a **$157K Year-1 SaaS contract**.
+
+### [ClassGrid](https://classgrid.co) · Retention Intelligence for Boutique Fitness
+**Problem:** Studio operators needed a clearer way to identify retention risk and understand which operating behaviors affected member outcomes.
+
+**Approach:** Built a live Mindbody-connected SaaS workflow with tier-aware risk scoring and coach impact intelligence.
+
+**Outcome:** Production deployment across paying studios with a workflow designed around operator decisions, not just analytics.
 
 **Stack:** Next.js · Supabase · Mindbody API · Anthropic API
 
 ### CareHomeHQ · Vertical SaaS Suite for Adult Family Home Operators
-4-product ecosystem (CRM, Chart, Scout, Nurture) on shared Supabase auth. Nightly DSHS data sync via WA-State ArcGIS API pulls 5,921 active licensed facilities into a proprietary lead engine. 10+ paying customers.
+**Problem:** Adult family home operators were managing fragmented lead, CRM, follow-up, and operational workflows.
 
-**Stack:** Next.js · Supabase · pg_cron · ArcGIS · Stripe
+**Approach:** Built a four-product ecosystem with shared authentication, CRM workflows, automation, and nightly Washington State facility-data synchronization.
 
-### AttorneyVault · Premium B2B SaaS for Bail Bond & Legal Operations
-Designed and closed solo a 4-phase enterprise contract structure totaling ~$157K Year 1.
+**Outcome:** A unified operating system supporting 10+ paying customers and reducing disconnected manual workflows.
 
-### Hermes · Always-On AI Automation Layer
-Always-on Claude agent stack with MCP-connected tools (GitHub, Supabase, Vercel, Playwright) controlling autonomous code review, deployments, and outreach drafting under draft-then-approve safety patterns.
+**Stack:** Next.js · Supabase · PostgreSQL · pg_cron · ArcGIS · Stripe
+
+### AI Voice Recruiting Workflow
+**Problem:** Manual first-round applicant screening slowed response and created inconsistent evaluation.
+
+**Approach:** Built a multi-turn Retell voice agent with structured interviews, weighted scoring, post-call processing, manager review, and explicit human decision controls.
+
+**Outcome:** Applicants can be contacted in under a minute while managers retain final hiring authority.
+
+### Hermes · Governed AI Automation Layer
+**Problem:** AI workflows needed controlled access to code, data, deployment systems, and operating context without removing human oversight.
+
+**Approach:** Built Claude agent workflows with MCP-connected GitHub, Supabase, Vercel, Playwright, and research tools using checkpoints, QA gates, and draft-then-approve controls.
+
+**Outcome:** Reusable agentic patterns for research, code review, deployment support, and operational workflows with explicit human control preserved.
 
 ---
 
-## Tech I Use Daily
+## What I Work With
 
-**AI & Agents:** Anthropic API · Claude Opus, Sonnet, Haiku · Claude Code · MCP servers · Multi-agent orchestration · Retell voice AI
+**AI & Agents:** Anthropic Claude · Claude Code · OpenAI / ChatGPT / Codex · Microsoft Copilot · Gemini · Agentic workflows · MCP · RAG · Prompt and context engineering · Structured outputs · Voice AI
 
-**Frontend:** Next.js 15 · React 19 · TypeScript · Tailwind v4 · Framer Motion · shadcn/ui
+**Build & Integration:** Next.js · TypeScript · Supabase · PostgreSQL · SQL · REST APIs · Webhooks · Vercel · GitHub · Retell · Twilio · Stripe · Resend
 
-**Backend & Data:** Supabase · PostgreSQL · Row-Level Security · Edge Functions · pg_cron
+**Transformation & Enablement:** Workflow discovery · Use-case prioritization · Rapid prototyping · Business case and ROI · Executive workshops · Training · Adoption · Change management · Responsible AI · Human-in-the-loop governance · KPI measurement
 
-**Infrastructure:** Vercel · GitHub · Stripe · Resend · Twilio
+---
+
+## What My GitHub Is Meant to Show
+
+I am not positioning myself as a traditional software engineer who happens to know AI.
+
+I am an **operator turned AI transformation practitioner and hands-on builder** who can move from business discovery to solution design, prototype, implementation, adoption, and measurable value.
+
+Most production repositories are private because they contain client code, proprietary logic, or operational integrations. Public materials are intended to show the thinking, architecture, workflows, and outcomes behind the work without exposing client-sensitive implementation details.
 
 ---
 
 ## Reach Me
 
-**Email:** frank@operatorhq.ai
-**Web:** [operatorhq.ai](https://operatorhq.ai) · [classgrid.co](https://classgrid.co)
-
-> Most of my repos are private (production code with API keys and proprietary logic). The fastest way to evaluate my work is to load the live URLs above.
-
+**Email:** frank@cascadestrategicsolutions.com  
+**LinkedIn:** [linkedin.com/in/frank-t-tanner](https://linkedin.com/in/frank-t-tanner)  
+**Web:** [operatorhq.ai](https://operatorhq.ai)
