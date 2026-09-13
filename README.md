@@ -26,6 +26,14 @@ Match permissions, approvals, evaluation, and human review to the risk of the ac
 
 ---
 
+## Selected AI Transformation Case Studies
+
+- [AI Decisioning & Collections Transformation](case-studies/ai-decisioning-collections.md) — workflow redesign, governed automation, measurable ROI
+- [Agentic Business Operations](case-studies/agentic-business-operations.md) — multi-agent operating model, MCP-connected tools, human approvals
+- [AI Voice Recruiting Workflow](case-studies/ai-voice-recruiting.md) — voice AI, structured evaluation, human-controlled hiring decisions
+
+---
+
 ## Selected AI Transformation & Product Work
 
 ### [OperatorHQ](https://operatorhq.ai) · AI Operations Diagnostic Platform
